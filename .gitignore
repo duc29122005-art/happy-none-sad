@@ -7,3 +7,4 @@ hehe/
 hehe_done/
 *.mov
 venv/
+*.pyc
