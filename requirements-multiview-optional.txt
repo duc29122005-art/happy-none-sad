@@ -1,0 +1,11 @@
+# Optional accelerators/backends for src/multiview_face.
+# Core OpenCV/NumPy/PyTorch dependencies are already in requirements.txt.
+
+mediapipe>=0.10.14
+easyocr>=1.7.1
+pytesseract>=0.3.10
+insightface>=0.7.3
+onnxruntime-gpu>=1.16.0
+
+# Install PyTorch3D, GFPGAN, and CodeFormer from their project-specific
+# instructions because compatible wheels depend on CUDA/PyTorch versions.

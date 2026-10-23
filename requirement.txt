@@ -1,0 +1,16 @@
+torch
+torchvision
+opencv-python
+numpy
+pandas
+ultralytics
+transformers
+Pillow
+retina-face
+scikit-learn
+matplotlib
+tqdm
+PyYAML
+efficientnet_pytorch
+albumentations
+onnxruntime

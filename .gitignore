@@ -1,0 +1,9 @@
+*.jpg
+*.mp4
+*.png
+faces/
+frames/
+hehe/
+hehe_done/
+*.mov
+venv/
